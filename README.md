@@ -1,16 +1,20 @@
-### Hi there 👋
+### Andy Connacher 👋
+> <sup>*Real-time 3D artist with a professional background in Architecture*\
+https://andyconnacher.com/</sup>
 
-<!--
-**theflyingepergne/theflyingepergne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+> 🎶 Bard Game\
+> <sup>*3rd person RPG centered around a nonchalant Bard in a not-so-nonchalant world*</sup>
+
+
+> 🚅 Train Game\
+> <sup>*A train management simulator which will make "Sid Meier's Railroads" proud*</sup>
+
+
+> 👀 VR projects\
+> <sup>*Modelling my flat in VR*</sup>
