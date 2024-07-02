@@ -1,20 +1,20 @@
 ### Andy Connacher 👋
-> <sup>*Real-time 3D artist with a professional background in Architecture*\
-https://andyconnacher.com/</sup>
+
+<sup>`UNREAL ENGINE | BLENDER | RHINO | ADOBE SUITE`</sup>
+> <sup>*Professional real-time 3D artist with a background in architecture*\
+> https://andyconnacher.com/
+
 
 </br>
 
-Currently working on:
+### Currently working on:
+
+> [🌊 Inonduille](link)\
+> <sup>*Interactive novel about a fictional town that is plagued by floods*</sup>
+
+> [🧑‍❤️‍💋‍👩 Boyfriend Points](https://github.com/theflyingepergne/Boyfriend-Counter)\
+> <sup>*Android app created using UE5 to keep track of your good-boyfriend-ly deeds*</sup>
 
 
-
-> 🎶 Bard Game\
-> <sup>*3rd person RPG centered around a nonchalant Bard in a not-so-nonchalant world*</sup>
-
-
-> 🚅 Train Game\
-> <sup>*A train management simulator which will make "Sid Meier's Railroads" proud*</sup>
-
-
-> 👀 VR projects\
-> <sup>*Modelling my flat in VR*</sup>
+> [👺 Samurai Survival](https://github.com/theflyingepergne/Survival_Game)\
+> <sup>*Couch co-op game about two Samurai trying to make it in this cruel world*</sup>
